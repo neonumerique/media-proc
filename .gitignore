@@ -1,0 +1,8 @@
+/node_modules
+/data
+/logs/combined.log
+/log/node-app-info.log
+/log/node-app-error.log
+supervisord.pid
+/apps/shared/node_modules
+/storage
